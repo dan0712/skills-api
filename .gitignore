@@ -1,0 +1,12 @@
+*.pyc
+.python-version
+venv/
+config/
+zappa_settings.json
+create-login-profile.json
+tmp/
+config.*
+*.zip
+*.sql
+*.tsv
+*.csv
